@@ -4,6 +4,6 @@ tasks:
   - command: git remote set-url origin git@github.com:Pass1-2-3/Pass1-2-3-Private-repo-03.git && sed "s/\r$//" commit-command.sh | bash
 vscode:
  extensions:
-   - redhat.java
    - Revaturepro-non-prod.revature-labs-non-prod
    - vscjava.vscode-java-test
+   - redhat.java
