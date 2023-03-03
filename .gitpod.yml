@@ -1,3 +1,5 @@
 vscode:
  extensions:
    - Revaturepro-non-prod.revature-labs-non-prod
+   - Pivotal.vscode-boot-dev-pack
+   - richardwillis.vscode-gradle
